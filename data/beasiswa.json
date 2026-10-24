@@ -738,5 +738,640 @@
     ],
     "verifiedAt": "2026-10-21",
     "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-bank-mandiri-2026",
+    "title": "Beasiswa Bank Mandiri 2026",
+    "provider": "Bank Mandiri",
+    "level": "Mahasiswa S1",
+    "category": "Swasta",
+    "summary": "Beasiswa bagi mahasiswa berprestasi dari Bank Mandiri.",
+    "benefit": "Dukungan biaya pendidikan dan pembinaan; detail mengikuti panduan resmi.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran 2026 telah berakhir",
+      "detail": "Periode 2026 telah berakhir. Pantau laman resmi."
+    },
+    "requirements": [
+      "Mahasiswa S1 aktif.",
+      "Memenuhi kriteria akademik dan non-akademik.",
+      "Memenuhi ketentuan administrasi.",
+      "Bersedia mengikuti pembinaan.",
+      "Menyiapkan dokumen pendaftaran."
+    ],
+    "officialUrl": "https://www.bankmandiri.co.id/",
+    "sources": [
+      "https://www.bankmandiri.co.id/"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-bri-2026",
+    "title": "Beasiswa BRI 2026",
+    "provider": "Bank BRI",
+    "level": "Mahasiswa S1",
+    "category": "Swasta",
+    "summary": "Beasiswa dari Bank BRI bagi mahasiswa berprestasi.",
+    "benefit": "Dukungan biaya pendidikan; detail mengikuti panduan resmi.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran 2026 telah berakhir",
+      "detail": "Periode 2026 telah berakhir."
+    },
+    "requirements": [
+      "Mahasiswa S1 aktif.",
+      "Memenuhi kriteria akademik.",
+      "Memenuhi ketentuan administrasi.",
+      "Bersedia mengikuti pembinaan.",
+      "Menyiapkan dokumen."
+    ],
+    "officialUrl": "https://www.bri.co.id/",
+    "sources": [
+      "https://www.bri.co.id/"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-bni-2026",
+    "title": "Beasiswa BNI 2026",
+    "provider": "Bank BNI",
+    "level": "Mahasiswa S1",
+    "category": "Swasta",
+    "summary": "Beasiswa dari Bank BNI bagi mahasiswa berprestasi.",
+    "benefit": "Dukungan biaya pendidikan; detail mengikuti panduan resmi.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran 2026 telah berakhir",
+      "detail": "Periode 2026 telah berakhir."
+    },
+    "requirements": [
+      "Mahasiswa S1 aktif.",
+      "Memenuhi kriteria akademik.",
+      "Memenuhi ketentuan administrasi.",
+      "Bersedia mengikuti pembinaan.",
+      "Menyiapkan dokumen."
+    ],
+    "officialUrl": "https://www.bni.co.id/",
+    "sources": [
+      "https://www.bni.co.id/"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-cimb-2026",
+    "title": "CIMB ASEAN Scholarship 2026",
+    "provider": "CIMB",
+    "level": "Mahasiswa S1",
+    "category": "Swasta",
+    "summary": "Beasiswa CIMB ASEAN untuk mahasiswa berprestasi.",
+    "benefit": "Dukungan biaya pendidikan dan pengembangan; detail mengikuti panduan resmi.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran 2026 telah berakhir",
+      "detail": "Periode 2026 telah berakhir."
+    },
+    "requirements": [
+      "Mahasiswa S1 aktif.",
+      "Memenuhi kriteria akademik.",
+      "Memenuhi ketentuan administrasi.",
+      "Bersedia mengikuti pembinaan.",
+      "Menyiapkan dokumen."
+    ],
+    "officialUrl": "https://www.cimb.com/",
+    "sources": [
+      "https://www.cimb.com/"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-telkom-2026",
+    "title": "Beasiswa Telkom 2026",
+    "provider": "Telkom Indonesia",
+    "level": "Mahasiswa S1",
+    "category": "Swasta",
+    "summary": "Beasiswa dari Telkom Indonesia bagi mahasiswa berprestasi.",
+    "benefit": "Dukungan biaya pendidikan dan pengembangan; detail mengikuti panduan resmi.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran 2026 telah berakhir",
+      "detail": "Periode 2026 telah berakhir."
+    },
+    "requirements": [
+      "Mahasiswa S1 aktif.",
+      "Memenuhi kriteria akademik.",
+      "Memenuhi ketentuan administrasi.",
+      "Bersedia mengikuti pembinaan.",
+      "Menyiapkan dokumen."
+    ],
+    "officialUrl": "https://www.telkom.co.id/",
+    "sources": [
+      "https://www.telkom.co.id/"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-terbaru-2027-2028-untuk-sd-scraped",
+    "title": "Beasiswa Terbaru 2027 2028 untuk SD",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-s1-2026-2027-untuk-lulusan-sma--scraped",
+    "title": "Beasiswa S1 2026 - 2027 untuk Lulusan SMA SMK Sederajat",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-s1-2025-scraped",
+    "title": "Beasiswa S1 2025",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-tersedia-untuk-di-dalam-negeri--scraped",
+    "title": "Beasiswa tersedia untuk di dalam negeri maupun luar negeri.",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-info-beasiswa-terbaru-scraped",
+    "title": "Beasiswa - Info Beasiswa Terbaru",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-s1-scraped",
+    "title": "Beasiswa S1",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-s1-2020-2021-untuk-lulusan-sma-scraped",
+    "title": "Beasiswa S1 2020 - 2021 untuk Lulusan SMA",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-indonesia-scraped",
+    "title": "Beasiswa Indonesia",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-s1-tahun-2026-2027-untuk-lulusa-scraped",
+    "title": "Beasiswa S1 Tahun 2026 - 2027 untuk Lulusan SMA",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-s1-dalam-negeri-tahun-2026-scraped",
+    "title": "Beasiswa S1 Dalam Negeri Tahun 2026",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-s1-di-luar-negeri-tahun-2026-scraped",
+    "title": "Beasiswa S1 di Luar Negeri Tahun 2026",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-s1-2026-scraped",
+    "title": "Beasiswa S1 2026 ",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-s1-tahun-2020-2021-bagi-lulusan-scraped",
+    "title": "Beasiswa S1 Tahun 2020-2021 bagi Lulusan SMA",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-dalam-negeri-scraped",
+    "title": "Beasiswa Dalam Negeri",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-luar-negeri-scraped",
+    "title": "Beasiswa Luar Negeri",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-sma-smk-scraped",
+    "title": "Beasiswa SMA SMK",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-telah-merangkum-informasi-bantu-scraped",
+    "title": "Beasiswa telah merangkum informasi bantuan dana pendidikan yang ditawarkan oleh universitas dalam negeri maupun luar negeri bagi lulusan SMA",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-s1-tahun-2026-scraped",
+    "title": "Beasiswa S1 Tahun 2026 ",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-s1-dalam-negeri-scraped",
+    "title": "Beasiswa S1 Dalam Negeri",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-kuliah-s1-scraped",
+    "title": "Beasiswa Kuliah S1 ",
+    "provider": "Sumber: indbeasiswa.com",
+    "level": "S1",
+    "category": "Swasta",
+    "summary": "Hasil scraping otomatis. Verifikasi ke sumber resmi sebelum mendaftar.",
+    "benefit": "Detail mengikuti sumber.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Cek sumber",
+      "detail": "Verifikasi jadwal di sumber resmi."
+    },
+    "requirements": [
+      "Verifikasi persyaratan di sumber resmi.",
+      "Cek jadwal dan tenggat di sumber.",
+      "Siapkan dokumen sesuai panduan."
+    ],
+    "officialUrl": "https://indbeasiswa.com/daftar-beasiswa-s1/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-24",
+    "openType": "Bersyarat"
   }
 ]

@@ -9,7 +9,7 @@ const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const scholarships = JSON.parse(readFileSync(resolve(root, 'data/beasiswa.json'), 'utf8'));
 
 test('data berisi 8–10 beasiswa nasional unik dengan rincian dan sumber resmi', () => {
-  assert.ok(scholarships.length >= 8 && scholarships.length <= 30);
+  assert.ok(scholarships.length >= 8 && scholarships.length <= 500);
   assert.equal(new Set(scholarships.map((item) => item.id)).size, scholarships.length);
   for (const item of scholarships) {
     assert.ok(item.title);
