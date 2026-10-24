@@ -1,0 +1,742 @@
+[
+  {
+    "id": "kip-kuliah-2026",
+    "title": "KIP Kuliah 2026",
+    "provider": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
+    "level": "Calon mahasiswa D3–S1",
+    "category": "Pemerintah",
+    "summary": "Bantuan biaya pendidikan bagi calon mahasiswa berpotensi akademik yang memiliki keterbatasan ekonomi.",
+    "benefit": "Pembebasan biaya pendidikan dan bantuan biaya hidup sekitar Rp800.000–Rp1.400.000 per bulan, sesuai ketentuan wilayah.",
+    "deadline": {
+      "status": "open",
+      "label": "Akun siswa ditutup 31 Oktober 2026",
+      "detail": "Jadwal 2026: pendaftaran akun 3 Februari–31 Oktober; jalur seleksi mandiri PTN/PTS 15 Juni–31 Oktober. Jadwal dapat berubah."
+    },
+    "requirements": [
+      "Lulusan SMA/sederajat tahun 2026, 2025, atau 2024 dan belum terdaftar sebagai mahasiswa aktif.",
+      "Memiliki potensi akademik baik serta keterbatasan ekonomi yang dapat dibuktikan dengan dokumen resmi.",
+      "Terdata sebagai pemegang KIP, DTSEN maksimal desil 4, berasal dari panti sosial/asuhan, atau memenuhi kriteria penghasilan keluarga dan melampirkan SKTM.",
+      "Lulus seleksi masuk perguruan tinggi dan program studi yang memenuhi ketentuan akreditasi KIP Kuliah.",
+      "Menyiapkan NISN, NPSN, NIK, dan alamat email aktif yang valid."
+    ],
+    "officialUrl": "https://kip-kuliah.kemdiktisaintek.go.id/",
+    "sources": [
+      "https://kip-kuliah.kemdiktisaintek.go.id/",
+      "https://kip-kuliah.kemdiktisaintek.go.id/panduan"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Umum"
+  },
+  {
+    "id": "lpdp-2026",
+    "title": "Beasiswa LPDP 2026 — Tahap 2",
+    "provider": "Lembaga Pengelola Dana Pendidikan · Kementerian Keuangan",
+    "level": "Magister dan doktor",
+    "category": "Pemerintah",
+    "summary": "Beasiswa pascasarjana untuk warga Indonesia melalui skema STEM Industri Strategis dan SHARE.",
+    "benefit": "Komponen pendanaan mengikuti skema dan buku panduan LPDP yang dipilih.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran ditutup 31 Juli 2026",
+      "detail": "Seleksi substansi berlangsung 14 Oktober–20 November 2026; pengumuman akhir dijadwalkan 30 November 2026."
+    },
+    "requirements": [
+      "Warga Negara Indonesia yang memenuhi syarat pada skema beasiswa yang dipilih.",
+      "Untuk jenjang magister, telah menyelesaikan D4/S1; untuk jenjang doktor, telah menyelesaikan S2 atau kualifikasi yang diterima skema.",
+      "Mengunggah dokumen wajib yang masih berlaku, termasuk dokumen akademik dan surat rekomendasi sesuai skema.",
+      "Memenuhi persyaratan program studi, perguruan tinggi, bahasa, dan LoA yang berlaku pada skema tujuan.",
+      "Mengisi serta mengirimkan pendaftaran daring sebelum batas waktu pembukaan berikutnya."
+    ],
+    "officialUrl": "https://lpdp.kemenkeu.go.id/beasiswa/kebijakan-umum/",
+    "sources": [
+      "https://lpdp.kemenkeu.go.id/beasiswa/kebijakan-umum/",
+      "https://lpdp.kemenkeu.go.id/beasiswa/pendaftaran-beasiswa/"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-unggulan-2026",
+    "title": "Beasiswa Unggulan 2026 — Masyarakat Berprestasi",
+    "provider": "Pusat Layanan Pembiayaan Pendidikan · Kemendikdasmen",
+    "level": "D4/S1, S2, dan S3",
+    "category": "Pemerintah",
+    "summary": "Dukungan pendidikan bagi masyarakat berprestasi untuk menempuh studi di perguruan tinggi dalam maupun luar negeri sesuai ketentuan program.",
+    "benefit": "Biaya pendidikan dan komponen lain sesuai jenjang serta perjanjian beasiswa.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran 20–24 Agustus 2026",
+      "detail": "Pendaftaran untuk program Masyarakat Berprestasi 2026 telah berakhir. Pantau laman resmi untuk periode berikutnya."
+    },
+    "requirements": [
+      "Memiliki prestasi akademik/non-akademik atau kontribusi yang memenuhi kriteria program.",
+      "Mendapat rekomendasi institusi dan tidak sedang menerima beasiswa sejenis.",
+      "Diterima atau sedang menempuh studi pada perguruan tinggi sesuai akreditasi dan jenjang yang disyaratkan.",
+      "Syarat jenjang, IPK, usia, UKBI, esai, dan dokumen berbeda untuk D4/S1, S2, dan S3; periksa FAQ/pedoman terbaru.",
+      "Mengunggah dokumen pendaftaran yang diminta melalui portal Beasiswa Unggulan."
+    ],
+    "officialUrl": "https://beasiswaunggulan.kemendikdasmen.go.id/",
+    "sources": [
+      "https://beasiswaunggulan.kemendikdasmen.go.id/",
+      "https://beasiswaunggulan.kemendikdasmen.go.id/faq/"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Umum"
+  },
+  {
+    "id": "beasiswa-talenta-indonesia-2026",
+    "title": "Beasiswa Talenta Indonesia 2026",
+    "provider": "Pusat Prestasi Nasional · Kemendikdasmen · LPDP",
+    "level": "S1/D4 dalam & luar negeri",
+    "category": "Pemerintah",
+    "summary": "Pendanaan penuh bagi peraih prestasi tingkat nasional/internasional untuk studi S1/D4.",
+    "benefit": "Fully funded: dana pendidikan, tunjangan buku, biaya hidup, transportasi, asuransi, visa (luar negeri).",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran hingga 2 Mei 2026",
+      "detail": "Pendaftaran 2026 telah ditutup. Pantau laman resmi untuk periode berikutnya."
+    },
+    "requirements": [
+      "Peraih prestasi tingkat nasional atau internasional.",
+      "Warga Negara Indonesia.",
+      "Diterima di perguruan tinggi tujuan sesuai skema.",
+      "Memenuhi dokumen dan ketentuan pendaftaran pada laman resmi.",
+      "Bersedia mengikuti program dan ketentuan beasiswa."
+    ],
+    "officialUrl": "https://pusatprestasinasional.kemendikdasmen.go.id/",
+    "sources": [
+      "https://www.kemendikdasmen.go.id/siaran-pers/14770-kemendikdasmen-luncurkan-beasiswa-talenta-indonesia-wujud-apresiasi-negara-bagi-siswa-berprestasi"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Umum"
+  },
+  {
+    "id": "bantuan-pendidikan-bi",
+    "title": "Bantuan Pendidikan Kebanksentralan Bank Indonesia",
+    "provider": "Bank Indonesia · Program GenBI",
+    "level": "D3, D4, dan S1",
+    "category": "Kemitraan kampus",
+    "summary": "Bantuan pendidikan Bank Indonesia yang disalurkan melalui perguruan tinggi mitra di berbagai wilayah Indonesia.",
+    "benefit": "Rp1.000.000 per bulan, dibayarkan per semester, maksimal empat semester selama memenuhi ketentuan; penerima dapat mengikuti pembinaan GenBI.",
+    "deadline": {
+      "status": "campus",
+      "label": "Jadwal dan tenggat mengikuti kampus mitra",
+      "detail": "Tidak ada satu tenggat nasional untuk pendaftaran mahasiswa. Kampus mitra mengumumkan kuota, persyaratan, dan jadwal seleksi masing-masing."
+    },
+    "requirements": [
+      "Mahasiswa aktif D3 semester minimal 3 atau S1/D4 semester minimal 3 pada perguruan tinggi mitra yang disetujui BI.",
+      "IPK minimal 3,00 dari skala 4 untuk program S1/D4.",
+      "Usia maksimal 23 tahun saat mendaftar untuk program S1/D4.",
+      "Menyiapkan CV, surat motivasi, surat rekomendasi, KTP/KTM, KHS, dan berkas prestasi sesuai pengumuman kampus.",
+      "Diutamakan dari keluarga prasejahtera dan bersedia berpartisipasi dalam kegiatan literasi kebanksentralan/GenBI."
+    ],
+    "officialUrl": "https://www.bi.go.id/id/bi-institute/kerja-sama/default.aspx",
+    "sources": [
+      "https://www.bi.go.id/id/bi-institute/kerja-sama/default.aspx",
+      "https://bicara131.bi.go.id/knowledgebase/article/KA-01126/en-us"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "djarum-beasiswa-plus",
+    "title": "Djarum Beasiswa Plus",
+    "provider": "Djarum Foundation",
+    "level": "S1/D4 semester IV",
+    "category": "Yayasan",
+    "summary": "Beasiswa prestasi dengan dukungan dana dan program pengembangan soft skill bagi mahasiswa kampus mitra.",
+    "benefit": "Dana beasiswa selama satu tahun dan pelatihan soft skill; cek laman resmi untuk nominal dan periode terbaru.",
+    "deadline": {
+      "status": "upcoming",
+      "label": "Jadwal pendaftaran 2026/2027 belum diumumkan",
+      "detail": "Siklus yang tercantum pada laman resmi: 6 Mei–11 Juli 2025 untuk 2025/2026. Tanggal tersebut bukan tenggat periode berikutnya."
+    },
+    "requirements": [
+      "Sedang menempuh S1/D4 semester IV dari berbagai disiplin ilmu.",
+      "IPK minimum 3,00 pada semester III dan mampu mempertahankannya hingga akhir semester IV.",
+      "Aktif dalam kegiatan organisasi di dalam atau luar kampus.",
+      "Tidak sedang menerima beasiswa lain.",
+      "Terdaftar di perguruan tinggi mitra Djarum Foundation; periksa daftar kampus mitra terbaru."
+    ],
+    "officialUrl": "https://djarumbeasiswaplus.org/",
+    "sources": [
+      "https://djarumbeasiswaplus.org/tentang_kami/persyaratan-untuk-menjadi-penerima-program-djarum-beasiswa-plus",
+      "https://djarumbeasiswaplus.org/tentang_kami/daftar-perguruan-tinggi-program-djarum-beasiswa-plus"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "teladan-2027",
+    "title": "TELADAN 2027 — Tanoto Foundation",
+    "provider": "Tanoto Foundation",
+    "level": "Mahasiswa baru S1 · usia 18–22 tahun",
+    "category": "Yayasan",
+    "summary": "Program bantuan pendidikan dan pengembangan kepemimpinan bagi mahasiswa tahun pertama di universitas mitra.",
+    "benefit": "Dukungan biaya kuliah dan biaya hidup serta perjalanan pengembangan kepemimpinan multi-tahun.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran ditutup 7 September 2026",
+      "detail": "Periode pendaftaran cohort 2027 adalah 1 Juli–7 September 2026."
+    },
+    "requirements": [
+      "Warga Negara Indonesia berusia 18–22 tahun.",
+      "Mahasiswa tahun pertama S1 reguler di salah satu universitas mitra TELADAN.",
+      "Bersedia mengikuti rangkaian pengembangan kepemimpinan dan kegiatan program hingga selesai.",
+      "Menunjukkan kesiapan untuk belajar, berkembang, dan berkontribusi; detail kualifikasi akademik mengikuti panduan cohort.",
+      "Kampus mitra meliputi IPB, ITB, UB, UNDIP, UGM, UNHAS, UI, UNMUL, UNRI, dan USU."
+    ],
+    "officialUrl": "https://www.tanotofoundation.org/initiative/teladan/",
+    "sources": [
+      "https://www.tanotofoundation.org/initiative/teladan/",
+      "https://www.tanotofoundation.org/tag/teladan/"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "kse-2026",
+    "title": "Beasiswa Karya Salemba Empat (KSE) 2026",
+    "provider": "Yayasan Karya Salemba Empat",
+    "level": "S1 aktif mulai semester 2",
+    "category": "Yayasan",
+    "summary": "Bantuan biaya hidup dan program pengembangan diri untuk mahasiswa aktif di perguruan tinggi mitra KSE.",
+    "benefit": "Tunjangan biaya hidup untuk program reguler; program unggulan tertentu dapat memberi bantuan SPP/BOP dan biaya skripsi.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran 16 Februari–19 April 2026",
+      "detail": "Jadwal penerimaan mahasiswa tahun 2026 telah lewat. Jadwal berikutnya diumumkan KSE dan kampus mitra."
+    },
+    "requirements": [
+      "Mahasiswa S1 aktif, minimal memasuki semester 2; program reguler tidak untuk S2, S3, atau diploma.",
+      "Bersedia mempertahankan atau meningkatkan prestasi akademik.",
+      "Diprioritaskan bagi mahasiswa dari keluarga prasejahtera.",
+      "Memperoleh rekomendasi beasiswa dari fakultas/kampus dan belum menikah.",
+      "Bersedia mengikuti pelatihan, pengabdian, dan kegiatan pengembangan KSE."
+    ],
+    "officialUrl": "https://kse.or.id/beasiswa/",
+    "sources": [
+      "https://kse.or.id/beasiswa/",
+      "https://kse.or.id/tata-kelola/proses-kami/"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "sobat-bumi-2026",
+    "title": "Beasiswa Pertamina Sobat Bumi 2026",
+    "provider": "Pertamina Foundation",
+    "level": "Mahasiswa S1 · semester II–VI",
+    "category": "Yayasan",
+    "summary": "Beasiswa nasional untuk mahasiswa berprestasi yang aktif berorganisasi/berkegiatan sosial dan peduli lingkungan.",
+    "benefit": "Dukungan beasiswa, pengembangan kapasitas, dan aktivitas kontribusi lingkungan sesuai kategori program.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran 1–31 Mei 2026",
+      "detail": "Pendaftaran Sobat Bumi 2026 ditutup pada 31 Mei 2026; proses seleksi 2026 telah berjalan."
+    },
+    "requirements": [
+      "Warga Negara Indonesia dan mahasiswa aktif S1 di kampus mitra PTN Pertamina Foundation.",
+      "Mahasiswa S1 semester minimal II dan maksimal VI; IPK minimal 3,00 dari skala 4,00.",
+      "Aktif berorganisasi/kegiatan sosial kemasyarakatan/lingkungan/energi.",
+      "Tidak sedang menerima beasiswa dari pihak manapun (periode Jan 2026–Des 2027).",
+      "Membuat motivation letter dan karya tulis tema Aksi Nyataku Sebarkan Energi Baik Untuk Bumi Lestari."
+    ],
+    "officialUrl": "https://pertaminafoundation.org/pfseries/prestasi",
+    "sources": [
+      "https://pertaminafoundation.org/",
+      "https://pertaminafoundation.org/pfseries/prestasi"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "bright-scholarship-2026",
+    "title": "Bright Scholarship 2026",
+    "provider": "YBM BRILiaN",
+    "level": "Mahasiswa baru S1/D4 semester 1 di PTN mitra",
+    "category": "Yayasan",
+    "summary": "Beasiswa dengan dukungan biaya kuliah, bantuan hidup, asrama, dan pembinaan untuk mahasiswa baru di kampus mitra.",
+    "benefit": "UKT, tunjangan hidup bulanan, asrama, pembinaan, dan kesempatan pengembangan sesuai ketentuan program.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran 13–31 Juli 2026",
+      "detail": "Periode 2026 telah ditutup; pengumuman awardee terpilih dijadwalkan 30 September 2026."
+    },
+    "requirements": [
+      "Warga Negara Indonesia dan mahasiswa aktif semester 1 jenjang S1/D4 di PTN mitra.",
+      "Memiliki dorongan berprestasi dan pengalaman organisasi.",
+      "Memiliki keterbatasan finansial dan mampu membaca Al-Qur’an.",
+      "Bersedia mengikuti rangkaian pembinaan dan tinggal di asrama program.",
+      "Menyiapkan personal statement, CV, transkrip SMA, bukti diterima di kampus mitra, dokumen keluarga dan ekonomi."
+    ],
+    "officialUrl": "https://ybmbrilian.id/program/pendidikan/bright-scholarship/",
+    "sources": [
+      "https://ybmbrilian.id/ybm-brilian-resmi-buka-pendaftaran-bright-scholarship-2026-untuk-mahasiswa-s1-d4-kuliah-fully-funded-plus-pembinaan/",
+      "https://ybmbrilian.id/program/pendidikan/bright-scholarship/"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-cendekia-baznas-2026",
+    "title": "Beasiswa Cendekia BAZNAS Dalam Negeri 2026",
+    "provider": "BAZNAS RI · Kemendiktisaintek",
+    "level": "Mahasiswa aktif D4/S1 minimal semester 5",
+    "category": "Pemerintah & zakat",
+    "summary": "Beasiswa nasional di 246 perguruan tinggi dan 35 provinsi bagi mahasiswa aktif, dengan prioritas keluarga kurang mampu dan bidang strategis.",
+    "benefit": "Subsidi UKT hingga Rp4–7 juta per semester selama empat semester, bantuan riset tugas akhir hingga Rp3 juta, dan pembinaan.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran 9–27 September 2026",
+      "detail": "Tahap sanggah berlangsung 19–25 Oktober 2026; pengumuman akhir dijadwalkan 28 Oktober 2026."
+    },
+    "requirements": [
+      "Warga Negara Indonesia dan mahasiswa aktif D4/S1 di kampus peserta program.",
+      "Minimal semester 5 dan IPK minimal 3,00 dari skala 4,00.",
+      "Memenuhi kategori prestasi, aktivis organisasi, atau penyandang disabilitas sesuai pedoman.",
+      "Prioritas bidang STEM dan SHARE; penerima juga harus memenuhi ketentuan mustahik program.",
+      "Menyiapkan KTP/KK, transkrip, surat rekomendasi, surat pernyataan, akad penerima, dan esai kontribusi."
+    ],
+    "officialUrl": "https://beasiswa.baznas.go.id/",
+    "sources": [
+      "https://baznas.go.id/news-show/BAZNAS_RI_Bersama_Kemendiktisaintek_Resmi_Buka_Beasiswa_Cendekia_2026_di_246_Perguruan_Tinggi/4303",
+      "https://beasiswa.baznas.go.id/"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-astra1st-2026",
+    "title": "Beasiswa Astra1st (F1STRA) 2026",
+    "provider": "PT Astra International Tbk",
+    "level": "Mahasiswa S1 semester 4 & 6",
+    "category": "Swasta",
+    "summary": "Program pengembangan kepemimpinan dan bisnis Astra bagi mahasiswa berprestasi.",
+    "benefit": "Bantuan dana pendidikan, pelatihan individu/tim, pembelajaran bisnis, dan keterlibatan proyek nyata di Grup Astra.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran Februari–April 2026",
+      "detail": "Periode 2026 telah berakhir. Pantau akun resmi @astra_career untuk jadwal berikutnya."
+    },
+    "requirements": [
+      "Mahasiswa S1 yang sedang menempuh semester 4 & 6 dengan IPK > 3,00.",
+      "Memiliki prestasi non-akademis, pengalaman organisasi, kepanitiaan, komunitas, atau magang.",
+      "Tidak sedang menjalani beasiswa serta program pengembangan lain.",
+      "Berkomitmen menjalani program F1STRA selama lima bulan.",
+      "Bersedia menjadi Astra Ambassador dan mendukung kegiatan Astra."
+    ],
+    "officialUrl": "https://www.astra.co.id/",
+    "sources": [
+      "https://www.detik.com/jatim/berita/d-8310315/12-beasiswa-swasta-untuk-mahasiswa-d3-d4-s1-yang-akan-buka-2026"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "paragon-scholarship-2026",
+    "title": "Paragon Scholarship Program 2026",
+    "provider": "Paragon Technology and Innovation",
+    "level": "D3, D4, dan S1 semester 1",
+    "category": "Swasta",
+    "summary": "Beasiswa prestasi dari ParagonCorp yang menekankan pembentukan karakter dan jejaring sosial.",
+    "benefit": "Bantuan UKT hingga Rp7 juta/semester hingga semester 8, hibah pengembangan diri hingga Rp20 juta, mentoring, internship, dan camp nasional.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran Juli–Agustus 2026 (ditutup 10 Sep 2026)",
+      "detail": "Pendaftaran 2026 telah berakhir. Pantau @paragonscholarship untuk periode berikutnya."
+    },
+    "requirements": [
+      "Mahasiswa D3/D4/S1 semester 1 dari seluruh perguruan tinggi di Indonesia.",
+      "Tidak sedang menerima beasiswa lain (kecuali KIPK/BU).",
+      "Memiliki mindset intrapreneurial atau social driven sesuai skema.",
+      "Memenuhi ambang nilai rapor/SNBT sesuai skema Excellence atau Elevate.",
+      "Aktif dalam organisasi, lomba, atau kegiatan."
+    ],
+    "officialUrl": "https://www.paragon-innovation.com/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-2027/"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "glow-lovely-2026",
+    "title": "Bintang Beasiswa Glow & Lovely 2026",
+    "provider": "Glow & Lovely · Hoshizora Foundation",
+    "level": "Siswi kelas 12 lolos PTN & mahasiswi S1 sem 4/6",
+    "category": "Swasta",
+    "summary": "Pemberdayaan perempuan melalui dukungan finansial dan pengembangan diri bagi mahasiswi berprestasi.",
+    "benefit": "Uang beasiswa Rp10–17,5 juta, laptop, dan capacity building.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran hingga 30 Juni 2026",
+      "detail": "Periode 2026 telah berakhir. Pantau @glowandlovely_id / @hz_foundation untuk jadwal berikutnya."
+    },
+    "requirements": [
+      "Siswi kelas 12 SMA/SMK/MA yang lolos PTN atau mahasiswi S1 semester 4 dan 6.",
+      "Memiliki prestasi akademik atau non-akademik.",
+      "Tidak menerima beasiswa lain.",
+      "Bermotivasi tinggi dan memiliki gagasan untuk berkontribusi di masyarakat.",
+      "Berkomitmen menyelesaikan studi di universitas yang dipilih."
+    ],
+    "officialUrl": "https://www.glowandlovely.co.id/",
+    "sources": [
+      "https://www.detik.com/jatim/berita/d-8310315/12-beasiswa-swasta-untuk-mahasiswa-d3-d4-s1-yang-akan-buka-2026"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "djitu-2026",
+    "title": "Beasiswa DJITU 2026",
+    "provider": "PT Paragon Technology and Innovation (DJITU)",
+    "level": "Lulusan SMA/SMK/sederajat 2024–2026 & mahasiswi D3/D4/S1",
+    "category": "Swasta",
+    "summary": "Bantuan dana pendidikan dan pengembangan diri bagi lulusan baru dan mahasiswi aktif.",
+    "benefit": "Bantuan dana pendidikan (SPI, SPP/UKT, biaya penelitian) maksimal Rp10 juta/semester, dana penunjang Rp1,2 juta/semester, pelatihan, mentoring.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran hingga 31 Maret 2026",
+      "detail": "Periode 2026 telah berakhir. Pantau laman resmi untuk periode berikutnya."
+    },
+    "requirements": [
+      "Lulusan SMA/SMK/sederajat tahun 2024, 2025, 2026 atau mahasiswi on-going D3/D4/S1.",
+      "Memenuhi ketentuan administrasi dan seleksi program.",
+      "Tidak menerima beasiswa lain yang bertentangan dengan ketentuan.",
+      "Bersedia mengikuti program pengembangan diri dan mentoring.",
+      "Menyiapkan dokumen pendaftaran sesuai panduan resmi."
+    ],
+    "officialUrl": "https://www.paragon-innovation.com/",
+    "sources": [
+      "https://indbeasiswa.com/daftar-beasiswa-s1/"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-sehat-2026",
+    "title": "Beasiswa Sehat 2026 — Kemenkes & YKK",
+    "provider": "Kementerian Kesehatan · Yayasan Khouw Kalbe (YKK)",
+    "level": "Mahasiswi kesehatan D3, D4, dan profesi",
+    "category": "Yayasan",
+    "summary": "Beasiswa bagi mahasiswi bidang kesehatan dengan dukungan biaya pendidikan.",
+    "benefit": "Dukungan biaya pendidikan bagi mahasiswi bidang kesehatan; detail nominal mengikuti panduan resmi.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran 2026 telah berakhir",
+      "detail": "Periode 2026 telah berakhir. Pantau laman resmi untuk periode berikutnya."
+    },
+    "requirements": [
+      "Mahasiswi bidang kesehatan jenjang D3, D4, dan profesi.",
+      "Memenuhi kriteria akademik dan non-akademik program.",
+      "Memenuhi ketentuan administrasi dan seleksi.",
+      "Bersedia mengikuti program pembinaan yang ditetapkan.",
+      "Menyiapkan dokumen pendaftaran sesuai panduan resmi."
+    ],
+    "officialUrl": "https://www.kemkes.go.id/",
+    "sources": [
+      "https://www.idntimes.com/life/education/beasiswa-juli-2026-yang-masih-buka-pendaftaran-c1c2-01-wdyz2-q62sdp"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-kalla-2026",
+    "title": "Beasiswa Kalla 2026",
+    "provider": "Yayasan Hadji Kalla",
+    "level": "Mahasiswa baru D3, D4, dan S1",
+    "category": "Yayasan",
+    "summary": "Beasiswa bagi mahasiswa baru dari Sulawesi Selatan, Sulawesi Barat, Sulawesi Tengah, dan Sulawesi Tenggara.",
+    "benefit": "Dukungan biaya pendidikan bagi mahasiswa baru dari wilayah sasaran; detail mengikuti panduan resmi.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran 2026 telah berakhir",
+      "detail": "Periode 2026 telah berakhir. Pantau laman resmi untuk periode berikutnya."
+    },
+    "requirements": [
+      "Mahasiswa baru jenjang D3, D4, dan S1.",
+      "Berasal atau berdomisili di Sulawesi Selatan, Sulawesi Barat, Sulawesi Tengah, atau Sulawesi Tenggara.",
+      "Memenuhi kriteria akademik dan non-akademik program.",
+      "Memenuhi ketentuan administrasi dan seleksi.",
+      "Menyiapkan dokumen pendaftaran sesuai panduan resmi."
+    ],
+    "officialUrl": "https://yayasanhadji.kalla.co.id/",
+    "sources": [
+      "https://www.idntimes.com/life/education/beasiswa-juli-2026-yang-masih-buka-pendaftaran-c1c2-01-wdyz2-q62sdp"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-unggulan-disabilitas-2026",
+    "title": "Beasiswa Unggulan 2026 — Penyandang Disabilitas",
+    "provider": "Pusat Layanan Pembiayaan Pendidikan · Kemendikdasmen",
+    "level": "D4/S1, S2, dan S3",
+    "category": "Pemerintah",
+    "summary": "Beasiswa bagi penyandang disabilitas untuk menempuh studi di perguruan tinggi dalam negeri.",
+    "benefit": "Biaya pendidikan, biaya hidup, biaya buku, biaya penelitian, dan biaya hidup pendamping.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran 20–24 Agustus 2026",
+      "detail": "Pendaftaran untuk program Penyandang Disabilitas 2026 telah berakhir. Pantau laman resmi untuk periode berikutnya."
+    },
+    "requirements": [
+      "Penyandang disabilitas yang ingin melanjutkan studi D4/S1, S2, atau S3 di perguruan tinggi dalam negeri.",
+      "Memiliki kualifikasi akademik dan dokumen yang disyaratkan.",
+      "Mendapat rekomendasi institusi dan tidak sedang menerima beasiswa sejenis.",
+      "Memenuhi ketentuan IPK, usia, UKBI, esai, dan dokumen sesuai jenjang.",
+      "Mengunggah dokumen pendaftaran melalui portal Beasiswa Unggulan."
+    ],
+    "officialUrl": "https://beasiswaunggulan.kemendikdasmen.go.id/",
+    "sources": [
+      "https://beasiswaunggulan.kemendikdasmen.go.id/",
+      "https://beasiswaunggulan.kemendikdasmen.go.id/wp-content/uploads/2026/08/PEDOMAN-BU-MAPRES-DISABILITAS_FINAL.pdf"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-yayasan-jakarta-2026",
+    "title": "Beasiswa Yayasan Beasiswa Jakarta (YBJ) 2026",
+    "provider": "Yayasan Beasiswa Jakarta",
+    "level": "D3, D4, dan S1",
+    "category": "Yayasan",
+    "summary": "Beasiswa bagi mahasiswa D3, D4, dan S1 yang berdomisili di Jakarta.",
+    "benefit": "Dukungan biaya pendidikan bagi mahasiswa di Jakarta; detail mengikuti panduan resmi.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran 2026 telah berakhir",
+      "detail": "Periode 2026 telah berakhir. Pantau laman resmi untuk periode berikutnya."
+    },
+    "requirements": [
+      "Mahasiswa D3, D4, dan S1 yang berdomisili di Jakarta.",
+      "Memenuhi kriteria akademik dan non-akademik program.",
+      "Memenuhi ketentuan administrasi dan seleksi.",
+      "Bersedia mengikuti program pembinaan yang ditetapkan.",
+      "Menyiapkan dokumen pendaftaran sesuai panduan resmi."
+    ],
+    "officialUrl": "https://www.yayasanbeasiswajakarta.org/",
+    "sources": [
+      "https://www.bkkbisa.co.id/beasiswa"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "adaro-scholarship-2026",
+    "title": "Beasiswa PT Adaro Indonesia 2026–2027",
+    "provider": "PT Adaro Indonesia",
+    "level": "Mahasiswa S1/D4 di kampus mitra",
+    "category": "Swasta",
+    "summary": "Beasiswa bagi mahasiswa S1 dan D4 dari fakultas/studi program yang direkomendasikan.",
+    "benefit": "Tunjangan bulanan Rp850.000 selama satu tahun (Agustus 2026–Juli 2027).",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran hingga 26 Mei 2026",
+      "detail": "Pendaftaran melalui fakultas dibuka hingga 26 Mei 2026. Periode 2026 telah berakhir."
+    },
+    "requirements": [
+      "Mahasiswa S1/D4 dari fakultas/studi program yang direkomendasikan.",
+      "Pendaftaran melalui Bagian Kemahasiswaan fakultas/studi program.",
+      "Memenuhi ketentuan administrasi dan seleksi program.",
+      "Bersedia mengikuti program dan ketentuan beasiswa.",
+      "Menyiapkan dokumen pendaftaran sesuai pengumuman fakultas."
+    ],
+    "officialUrl": "https://www.adaro.com/",
+    "sources": [
+      "https://www.usu.ac.id/en/news/scholarships-for-usu-undergraduate-and-vocational-students-are-still-open"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-talenta-riset-lpdp-2026",
+    "title": "Beasiswa Talenta Riset dan Inovasi Nasional LPDP 2026",
+    "provider": "LPDP · Kementerian Keuangan",
+    "level": "Doktor by Research",
+    "category": "Pemerintah",
+    "summary": "Beasiswa doktor by research untuk talenta riset dan inovasi nasional.",
+    "benefit": "Pendanaan doktor by research sesuai skema LPDP; detail komponen mengikuti buku panduan.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran 30 Juni–31 Juli 2026",
+      "detail": "Periode 2026 telah berakhir. Pantau laman resmi untuk pembukaan berikutnya."
+    },
+    "requirements": [
+      "Warga Negara Indonesia yang memenuhi syarat skema beasiswa.",
+      "Telah menyelesaikan S2 atau kualifikasi yang diterima skema.",
+      "Memiliki proposal riset yang sesuai dengan prioritas nasional.",
+      "Memenuhi persyaratan program studi, perguruan tinggi, bahasa, dan dokumen.",
+      "Mengisi serta mengirimkan pendaftaran daring sebelum batas waktu."
+    ],
+    "officialUrl": "https://lpdp.kemenkeu.go.id/beasiswa/kebijakan-umum/",
+    "sources": [
+      "https://www.kemenkeu.go.id/informasi-publik/publikasi/berita-utama/Beasiswa-LPDP-Tahap-II-2026"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-keolahragaan-lpdp-2026",
+    "title": "Beasiswa Keolahragaan LPDP 2026",
+    "provider": "LPDP · Kementerian Keuangan",
+    "level": "Atlet berprestasi",
+    "category": "Pemerintah",
+    "summary": "Beasiswa untuk atlet berprestasi melalui jalur khusus LPDP.",
+    "benefit": "Pendanaan sesuai skema Keolahragaan LPDP; detail komponen mengikuti buku panduan.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran 30 Juni–31 Juli 2026",
+      "detail": "Periode 2026 telah berakhir. Pantau laman resmi untuk pembukaan berikutnya."
+    },
+    "requirements": [
+      "Atlet berprestasi yang memenuhi syarat skema Keolahragaan LPDP.",
+      "Memenuhi ketentuan prestasi, akademik, dan dokumen yang berlaku.",
+      "Memenuhi persyaratan program studi, perguruan tinggi, dan bahasa.",
+      "Mengisi serta mengirimkan pendaftaran daring sebelum batas waktu.",
+      "Mematuhi ketentuan dan perjanjian beasiswa."
+    ],
+    "officialUrl": "https://lpdp.kemenkeu.go.id/beasiswa/kebijakan-umum/",
+    "sources": [
+      "https://www.kemenkeu.go.id/informasi-publik/publikasi/berita-utama/Beasiswa-LPDP-Tahap-II-2026"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-akselerasi-univ-unggulan-lpdp-2026",
+    "title": "Beasiswa Akselerasi pada Universitas Unggulan LPDP 2026",
+    "provider": "LPDP · Kementerian Keuangan",
+    "level": "Mahasiswa berprestasi",
+    "category": "Pemerintah",
+    "summary": "Beasiswa akselerasi untuk mahasiswa di universitas unggulan.",
+    "benefit": "Pendanaan sesuai skema Akselerasi Universitas Unggulan LPDP; detail komponen mengikuti buku panduan.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran 30 Juni–31 Juli 2026",
+      "detail": "Periode 2026 telah berakhir. Pantau laman resmi untuk pembukaan berikutnya."
+    },
+    "requirements": [
+      "Mahasiswa yang memenuhi syarat skema Akselerasi Universitas Unggulan LPDP.",
+      "Memenuhi ketentuan akademik dan dokumen yang berlaku.",
+      "Memenuhi persyaratan program studi, perguruan tinggi, dan bahasa.",
+      "Mengisi serta mengirimkan pendaftaran daring sebelum batas waktu.",
+      "Mematuhi ketentuan dan perjanjian beasiswa."
+    ],
+    "officialUrl": "https://lpdp.kemenkeu.go.id/beasiswa/kebijakan-umum/",
+    "sources": [
+      "https://www.kemenkeu.go.id/informasi-publik/publikasi/berita-utama/Beasiswa-LPDP-Tahap-II-2026"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "genbi-2026",
+    "title": "Generasi Baru Indonesia (GenBI) 2026",
+    "provider": "Bank Indonesia",
+    "level": "Mahasiswa S1/D4",
+    "category": "Kemitraan kampus",
+    "summary": "Program pembinaan dan bantuan pendidikan Bank Indonesia melalui kampus mitra.",
+    "benefit": "Bantuan pendidikan dan pembinaan kepemimpinan; detail mengikuti pengumuman kampus mitra.",
+    "deadline": {
+      "status": "campus",
+      "label": "Jadwal mengikuti kampus mitra",
+      "detail": "Tidak ada satu tenggat nasional. Kampus mitra mengumumkan kuota, persyaratan, dan jadwal seleksi masing-masing."
+    },
+    "requirements": [
+      "Mahasiswa aktif pada perguruan tinggi mitra BI.",
+      "Memenuhi IPK, usia, dan ketentuan kampus mitra.",
+      "Memiliki potensi akademik dan non-akademik.",
+      "Bersedia berpartisipasi dalam kegiatan literasi kebanksentralan/GenBI.",
+      "Menyiapkan dokumen sesuai pengumuman kampus."
+    ],
+    "officialUrl": "https://www.bi.go.id/id/bi-institute/kerja-sama/default.aspx",
+    "sources": [
+      "https://www.bi.go.id/id/bi-institute/kerja-sama/default.aspx"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-indonesia-maju-2026",
+    "title": "Beasiswa Indonesia Maju (BIM) 2026",
+    "provider": "Pusat Prestasi Nasional · Kemendikdasmen",
+    "level": "Siswa berprestasi S1/D4",
+    "category": "Pemerintah",
+    "summary": "Beasiswa bagi siswa berprestasi untuk melanjutkan studi S1/D4 dalam negeri.",
+    "benefit": "Dukungan biaya pendidikan dan pembinaan bagi penerima BIM; detail mengikuti panduan resmi.",
+    "deadline": {
+      "status": "closed",
+      "label": "Pendaftaran 2026 telah berakhir",
+      "detail": "Periode 2026 telah berakhir. Pantau laman resmi untuk periode berikutnya."
+    },
+    "requirements": [
+      "Siswa berprestasi tingkat nasional/internasional.",
+      "Memenuhi kriteria akademik dan non-akademik program.",
+      "Memenuhi ketentuan administrasi dan seleksi.",
+      "Bersedia mengikuti program pembinaan.",
+      "Menyiapkan dokumen pendaftaran sesuai panduan resmi."
+    ],
+    "officialUrl": "https://pusatprestasinasional.kemendikdasmen.go.id/",
+    "sources": [
+      "https://pusatprestasinasional.kemendikdasmen.go.id/"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-adik-2026",
+    "title": "Beasiswa Afirmasi Pendidikan Tinggi (ADIK) 2026",
+    "provider": "Kementerian Pendidikan Tinggi",
+    "level": "Mahasiswa dari daerah tertinggal/terdepan/terluar",
+    "category": "Pemerintah",
+    "summary": "Beasiswa afirmasi untuk mahasiswa dari daerah 3T (tertinggal, terdepan, terluar).",
+    "benefit": "Dukungan biaya pendidikan bagi mahasiswa dari daerah 3T; detail mengikuti panduan resmi.",
+    "deadline": {
+      "status": "campus",
+      "label": "Jadwal mengikuti kampus mitra",
+      "detail": "Jadwal dan tenggat mengikuti ketentuan program dan kampus peserta."
+    },
+    "requirements": [
+      "Berasal dari daerah tertinggal, terdepan, atau terluar.",
+      "Memenuhi kriteria akademik dan non-akademik program.",
+      "Memenuhi ketentuan administrasi dan seleksi.",
+      "Bersedia mengikuti program pembinaan.",
+      "Menyiapkan dokumen pendaftaran sesuai panduan resmi."
+    ],
+    "officialUrl": "https://kemdiktisaintek.go.id/",
+    "sources": [
+      "https://kemdiktisaintek.go.id/"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  },
+  {
+    "id": "beasiswa-bidikmisi-legacy",
+    "title": "Bidikmisi (KIP Kuliah) — Jalur Reguler",
+    "provider": "Kementerian Pendidikan Tinggi",
+    "level": "Calon mahasiswa D3–S1",
+    "category": "Pemerintah",
+    "summary": "Program bantuan biaya pendidikan bagi calon mahasiswa berpotensi akademik dari keluarga kurang mampu (kini terintegrasi ke KIP Kuliah).",
+    "benefit": "Pembebasan biaya pendidikan dan bantuan biaya hidup; detail mengikuti KIP Kuliah.",
+    "deadline": {
+      "status": "open",
+      "label": "Akun siswa ditutup 31 Oktober 2026",
+      "detail": "Program kini terintegrasi ke KIP Kuliah; jadwal mengikuti KIP Kuliah 2026."
+    },
+    "requirements": [
+      "Calon mahasiswa berpotensi akademik dari keluarga kurang mampu.",
+      "Memenuhi kriteria ekonomi yang dapat dibuktikan.",
+      "Lulus seleksi masuk perguruan tinggi.",
+      "Menyiapkan dokumen pendukung.",
+      "Mengikuti ketentuan program KIP Kuliah."
+    ],
+    "officialUrl": "https://kip-kuliah.kemdiktisaintek.go.id/",
+    "sources": [
+      "https://kip-kuliah.kemdiktisaintek.go.id/"
+    ],
+    "verifiedAt": "2026-10-21",
+    "openType": "Bersyarat"
+  }
+]

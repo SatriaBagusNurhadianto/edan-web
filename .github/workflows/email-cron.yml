@@ -1,0 +1,20 @@
+name: Daily Reminder Email Cron
+on:
+  schedule:
+    - cron: '0 17 * * *'  # 00:00 WIB
+  workflow_dispatch:
+
+jobs:
+  send-reminders:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm ci
+      - name: Send H-3 reminder emails
+        run: node scripts/send-reminders.mjs
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}

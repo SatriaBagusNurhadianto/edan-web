@@ -1,0 +1,30 @@
+# Template CV (Curriculum Vitae) - EDAN
+
+## Data Pribadi
+- Nama Lengkap:
+- Tempat, Tanggal Lahir:
+- Alamat:
+- Email:
+- Telepon:
+- LinkedIn/Portfolio:
+
+## Pendidikan
+- [Tahun] - [Tahun] | [Nama Institusi] | [Jurusan] | IPK: x.xx
+
+## Pengalaman Organisasi
+- [Tahun] - [Tahun] | [Nama Organisasi] | [Jabatan]
+  - Deskripsi singkat kontribusi
+
+## Prestasi & Penghargaan
+- [Tahun] | [Nama Prestasi] | [Tingkat]
+
+## Keterampilan
+- Bahasa: ...
+- Teknis: ...
+- Soft skills: ...
+
+## Referensi (opsional)
+- Nama | Jabatan | Kontak
+
+---
+Tips: Sesuaikan dengan persyaratan beasiswa. Jaga 1-2 halaman.

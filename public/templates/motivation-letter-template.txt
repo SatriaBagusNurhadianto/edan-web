@@ -1,0 +1,20 @@
+# Template Surat Motivasi (Motivation Letter) - EDAN
+
+Kepada Yth. Panitia Seleksi [Nama Beasiswa]
+
+Dengan hormat,
+
+Saya, [Nama Lengkap], mahasiswa [Jurusan] di [Nama Universitas], menulis surat ini untuk menyampaikan minat saya mengikuti program [Nama Beasiswa].
+
+Latar belakang saya: [ceritakan latar belakang singkat, prestasi, kondisi ekonomi jika relevan]
+
+Mengapa beasiswa ini: [alasan memilih beasiswa, kesesuaian dengan tujuan karir]
+
+Kontribusi saya: [rencana kontribusi setelah lulus, dampak untuk masyarakat]
+
+Demikian surat ini saya sampaikan. Terima kasih atas perhatian Bapak/Ibu.
+
+Hormat saya,
+
+[Nama Lengkap]
+[NIM/Kontak]
